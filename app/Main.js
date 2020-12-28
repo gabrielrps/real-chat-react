@@ -14,7 +14,7 @@ import HomeGuest from './components/HomeGuest';
 import FlashMessages from './components/FlashMessages';
 
 
-Axios.defaults.baseURL= 'http://realchatspringboot-env-1.eba-8pqvzdhw.us-east-2.elasticbeanstalk.com';
+Axios.defaults.baseURL= 'https://real-chat-spring.herokuapp.com';
 
 
 function Main() {

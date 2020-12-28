@@ -6,7 +6,7 @@ import DispatchContext from '../DispatchContext';
 import StateContext from '../StateContext';
 import Axios from 'axios';
 
-const SOCKET_URL = 'http://realchatspringboot-env-1.eba-8pqvzdhw.us-east-2.elasticbeanstalk.com/ws-chat/';
+const SOCKET_URL = 'https://real-chat-spring.herokuapp.com/ws-chat/';
 
 function Chat() {
 
